@@ -1,123 +1,122 @@
 {
-product: 
-[{
+  "products": [{
   "id": 1,
-  "name": "Lyndell",
-  "price": "$0.86"
+  "judul": "Allina",
+  "harga": "$1.32"
 }, {
   "id": 2,
-  "name": "Krisha",
-  "price": "$8.62"
+  "judul": "Danica",
+  "harga": "$3.90"
 }, {
   "id": 3,
-  "name": "Liza",
-  "price": "$2.95"
+  "judul": "Bamby",
+  "harga": "$3.67"
 }, {
   "id": 4,
-  "name": "Lebbie",
-  "price": "$9.18"
+  "judul": "Marleah",
+  "harga": "$8.95"
 }, {
   "id": 5,
-  "name": "Dominique",
-  "price": "$5.62"
+  "judul": "Lorne",
+  "harga": "$1.75"
 }, {
   "id": 6,
-  "name": "Gustie",
-  "price": "$3.85"
+  "judul": "Ryann",
+  "harga": "$2.07"
 }, {
   "id": 7,
-  "name": "Sybilla",
-  "price": "$6.51"
+  "judul": "Tades",
+  "harga": "$5.73"
 }, {
   "id": 8,
-  "name": "Buck",
-  "price": "$1.45"
+  "judul": "Starla",
+  "harga": "$1.87"
 }, {
   "id": 9,
-  "name": "Danna",
-  "price": "$7.51"
+  "judul": "Mel",
+  "harga": "$0.70"
 }, {
   "id": 10,
-  "name": "Farleigh",
-  "price": "$2.13"
+  "judul": "Britni",
+  "harga": "$1.48"
 }, {
   "id": 11,
-  "name": "Nathalia",
-  "price": "$8.59"
+  "judul": "Germain",
+  "harga": "$9.64"
 }, {
   "id": 12,
-  "name": "Blondelle",
-  "price": "$4.39"
+  "judul": "Shelby",
+  "harga": "$3.52"
 }, {
   "id": 13,
-  "name": "Antonino",
-  "price": "$5.97"
+  "judul": "Wallie",
+  "harga": "$8.56"
 }, {
   "id": 14,
-  "name": "Dedra",
-  "price": "$0.55"
+  "judul": "Sherm",
+  "harga": "$7.07"
 }, {
   "id": 15,
-  "name": "Jerome",
-  "price": "$1.31"
+  "judul": "Read",
+  "harga": "$4.51"
 }, {
   "id": 16,
-  "name": "Jeane",
-  "price": "$6.46"
+  "judul": "Cyb",
+  "harga": "$9.93"
 }, {
   "id": 17,
-  "name": "Tommie",
-  "price": "$4.31"
+  "judul": "Mellicent",
+  "harga": "$0.80"
 }, {
   "id": 18,
-  "name": "Tim",
-  "price": "$9.22"
+  "judul": "Hy",
+  "harga": "$7.11"
 }, {
   "id": 19,
-  "name": "Agosto",
-  "price": "$5.98"
+  "judul": "Jaime",
+  "harga": "$7.17"
 }, {
   "id": 20,
-  "name": "Frannie",
-  "price": "$0.05"
+  "judul": "Nobe",
+  "harga": "$3.87"
 }, {
   "id": 21,
-  "name": "Hoebart",
-  "price": "$1.96"
+  "judul": "Elisabetta",
+  "harga": "$1.98"
 }, {
   "id": 22,
-  "name": "Kort",
-  "price": "$7.12"
+  "judul": "Allen",
+  "harga": "$9.29"
 }, {
   "id": 23,
-  "name": "Dex",
-  "price": "$8.38"
+  "judul": "Si",
+  "harga": "$8.99"
 }, {
   "id": 24,
-  "name": "Fanny",
-  "price": "$5.53"
+  "judul": "Sven",
+  "harga": "$7.63"
 }, {
   "id": 25,
-  "name": "Shantee",
-  "price": "$9.62"
+  "judul": "Sallyanne",
+  "harga": "$5.63"
 }, {
   "id": 26,
-  "name": "Essy",
-  "price": "$9.88"
+  "judul": "Emlynn",
+  "harga": "$1.84"
 }, {
   "id": 27,
-  "name": "Helen",
-  "price": "$1.00"
+  "judul": "Rica",
+  "harga": "$0.29"
 }, {
   "id": 28,
-  "name": "Leslie",
-  "price": "$2.12"
+  "judul": "Hilario",
+  "harga": "$5.53"
 }, {
   "id": 29,
-  "name": "Netti",
-  "price": "$9.99"
+  "judul": "Albie",
+  "harga": "$5.35"
 }, {
   "id": 30,
-  "name": "Lotte",
-  "price": "$4.39"
+  "judul": "Ingar",
+  "harga": "$4.60"
 }]}
